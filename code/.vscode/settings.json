@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "typeinfo": "cpp",
+        "fstream": "cpp",
+        "syscall.h": "c",
+        "copyright.h": "c",
+        "unistd.h": "c"
+    }
+}
